@@ -1,10 +1,10 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"Software Engineering Student",
-    "description":"I am 2 online courses away from finishing my ",
-    "school":"University of Victoria",
-    "degree":"Bachelors in Computer Science with a Software Engineering Specialty",
+    "name":"Roberto Melfi",
+    "occupation":"Computer Science High School Teacher and Full Stack Developer as a hobby",
+    "description":"I have a ",
+    "school":"University of Naples \"Parthenope\"",
+    "degree":"Master's degree in Computer Science",
     "image":"profile_pic.jpg",
     "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Coming up just short of finishing my degree by 2 online courses, I decided to just bask in the glory of being finished with lectures and have left to travel Southeast Asia for a year. I am using this time to gain some world experience, train in Muay Thai, and hone my craft on some personal projects. Upon my return to Canada I hope to begin a web development or software engineering career while I finish off my degree.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
@@ -21,33 +21,23 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/roberto.melfi.1",
         "className":"fa fa-facebook"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/roberto-melfi/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"stack-overflow",
-        "url":"https://stackoverflow.com/users/8553186/tim-baker?tab=profile",
-        "className":"fa fa-stack-overflow"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/robmelfi",
         "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/robimelfi",
+        "className":"fa fa-instagram"
       }
     ]
   },
