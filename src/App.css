@@ -1,15 +1,22 @@
-.App {
-  text-align: center;
-  font-family: 'Caveat', cursive;
+.newline{
+  white-space: pre-wrap;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(30px + 2vmin);
-  color: white;
+#portfolio h1{
+  font-size: 2rem;
+}
+
+.feature-item{
+  text-align: center;
+  margin-top:2.5em;
+  padding-left:2em;
+  padding-right:2em;
+}
+
+.center{
+  text-align: center;
+}
+
+.warning{
+  color: red;
 }
