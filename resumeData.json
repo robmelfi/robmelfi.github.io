@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name":"Roberto Melfi",
+    "occupation":"Computer Science High School Teacher and Full Stack Developer as a hobby",
+    "description":"I'm always interested in playing around with new technologies but these are the ones that have really won me over",
+    "school":"University of Naples Parthenope",
+    "degree":"Master's degree in Computer Science",
+    "image":"profile_pic.png",
+    "bio":"I am a Computer Science High School Teacher and Full Stack Developer as a hobby. I teach Exploring Computer Science, Information Technology, and Basic Programming.",
+    "contactmessage":"Have a project for me? I'd love to hear from you, give me a shout by email if you'd like to get in contact with me.",
+    "email": "melfiroberto@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"Succivo (CE)",
+      "state":"Italia",
+      "zip": ""
+    },
+    "website": "https://robmelfi.github.io",
+    "resumedownload":"link to pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/roberto.melfi.1",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/roberto-melfi/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/robmelfi",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/robimelfi",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"University of Naples Parthenope",
+        "degree":"Master's degree in Computer Science",
+        "graduated":"May 2014",
+        "description":"Here I took my Master's degree in Computer Science and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      }
+    ],
+    "work":[
+      {
+        "company":"ISISS O. Conti",
+        "title":"Computer Science High School Teacher",
+        "years":"September 2017 - Present",
+        "description":"I teach Exploring Computer Science, Information Technology, and Basic Programming."
+      },
+      {
+        "company":"E.M.M. Informatica",
+        "title":"Software developer",
+        "years":"March 2014 - April 2015",
+        "description":"Working for the E.M.M. Informatica has given me a solid understanding of a software's infrastructure system and what it takes to keep the things working. I worked as a software developer and I learned technologies such as Spring Framework, JBoss, Oracle Database, Junit, GWT, Apache Maven, SVN."
+      },
+      {
+        "company":"University of Naples Parthenope",
+        "title":"Smart University of Napoli Parthenope RESTful API Store",
+        "years":"February 2012 - July 2012",
+        "description":"RESTful Web Services, PHP, Framework FRAPI, Linux, Apache Web Server, MySQL."
+      }
+    ],
+    "publication": [
+      {
+        "title": "Human activity modeling by spatio temporal textural appearance",
+        "journal": "Pattern Recognition Letters 34(15): 1990-1994 (2013) November 1, 2013",
+        "authors": "Roberto Melfi, Shripad Kondra, Alfredo Petrosino",
+        "url": "http://www.sciencedirect.com/science/article/pii/S0167865513001839"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Spring Boot",
+        "description":"",
+        "image":"spring-boot.jpg"
+      },
+      {
+        "name":"Java",
+        "description":"",
+        "image":"java.jpg"
+      },
+      {
+        "name":"React",
+        "description":"",
+        "image":"react.jpg"
+      },
+      {
+        "name":"Angular",
+        "description":"",
+        "image":"angular.jpg"
+      },
+      {
+        "name":"Git",
+        "description":"",
+        "image":"git.jpg"
+      },
+      {
+        "name":"Bootstrap",
+        "description":"",
+        "image":"bootstrap.jpg"
+      },
+      {
+        "name":"MySql",
+        "description":"",
+        "image":"mysql.jpg"
+      },
+      {
+        "name":"Heroku",
+        "description":"",
+        "image":"heroku.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Remote Control Raspberry PI",
+        "category":"Controlling Raspberry GPIO for home automation with a web/mobile app",
+        "image":"rcraspi.jpg",
+        "url":"https://robmelfi.github.io/rc-raspi/"
+      },
+      {
+        "title":"Sigismondo Interni",
+        "category":"Website I built for a furnishing store",
+        "image":"sigismondo.jpg",
+        "url":"http://www.sigismondointerni.com"
+      },
+      {
+        "title":"Sondaggio ISISS Conti",
+        "category":"Web app I built for a survey",
+        "image":"sondaggio-conti.jpg",
+        "url":"https://isissconti-sondaggio.herokuapp.com/#/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user":"Alastair Beaumont - Web Developer at AppColony"
+      }
+    ]
+  }
+}
