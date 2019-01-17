@@ -11,7 +11,7 @@ class About extends Component {
         let zip;
         let phone;
         let email;
-        let resumeDownload;
+        // let resumeDownload;
 
         if (this.props.data) {
             name = this.props.data.name;
@@ -22,7 +22,7 @@ class About extends Component {
             zip = this.props.data.address.zip;
             phone = this.props.data.phone;
             email = this.props.data.email;
-            resumeDownload = this.props.data.resumedownload;
+            // resumeDownload = this.props.data.resumedownload;
         }
 
         return (
