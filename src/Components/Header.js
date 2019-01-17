@@ -8,7 +8,7 @@ class Header extends Component {
         let description;
         let school;
         let degree;
-        let city;
+        // let city;
         let networks;
 
         if (this.props.data) {
@@ -17,7 +17,7 @@ class Header extends Component {
             description = this.props.data.description;
             school = this.props.data.school;
             degree = this.props.data.degree;
-            city = this.props.data.address.city;
+            // city = this.props.data.address.city;
             networks = this.props.data.social.map(function (network) {
                 return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
             })
