@@ -3,20 +3,20 @@ import React, {Component} from 'react';
 class Contact extends Component {
     render() {
 
-        var name;
-        var city;
-        var state;
-        var zip;
-        var phone;
-        var email;
-        var message;
+        // let name;
+        // let city;
+        // let state;
+        // let zip;
+        // let phone;
+        let email;
+        let message;
 
         if (this.props.data) {
-            name = this.props.data.name;
-            city = this.props.data.address.city;
-            state = this.props.data.address.state;
-            zip = this.props.data.address.zip;
-            phone = this.props.data.phone;
+            // name = this.props.data.name;
+            // city = this.props.data.address.city;
+            // state = this.props.data.address.state;
+            // zip = this.props.data.address.zip;
+            // phone = this.props.data.phone;
             email = this.props.data.email;
             message = this.props.data.contactmessage;
         }
