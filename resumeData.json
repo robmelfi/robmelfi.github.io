@@ -133,7 +133,7 @@
         "title":"Remote Control Raspberry PI",
         "category":"Controlling Raspberry GPIO for home automation with a web/mobile app",
         "image":"rcraspi.jpg",
-        "url":"https://robmelfi.github.io/rc-raspi/"
+        "url":"https://github.com/robmelfi/rc-raspi"
       },
       {
         "title":"Sigismondo Interni",
