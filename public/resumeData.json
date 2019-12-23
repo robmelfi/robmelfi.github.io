@@ -86,44 +86,64 @@
     ],
     "skills":[
       {
-        "name":"Spring Boot",
+        "name":"",
         "description":"",
         "image":"spring-boot.jpg"
       },
       {
-        "name":"Java",
+        "name":"",
         "description":"",
         "image":"java.jpg"
       },
       {
-        "name":"React",
+        "name":"",
         "description":"",
         "image":"react.jpg"
       },
       {
-        "name":"Angular",
+        "name":"",
         "description":"",
         "image":"angular.jpg"
       },
       {
-        "name":"Git",
+        "name":"",
         "description":"",
         "image":"git.jpg"
       },
       {
-        "name":"Bootstrap",
+        "name":"",
         "description":"",
         "image":"bootstrap.jpg"
       },
       {
-        "name":"MySql",
+        "name":"",
         "description":"",
         "image":"mysql.jpg"
       },
       {
-        "name":"Heroku",
+        "name": "",
+        "description": "",
+        "image": "heroku.jpg"
+      },
+      {
+        "name":"",
         "description":"",
-        "image":"heroku.jpg"
+        "image":"apple.png"
+      },
+      {
+        "name":"",
+        "description":"",
+        "image":"swift.png"
+      },
+      {
+        "name":"",
+        "description":"",
+        "image":"android.png"
+      },
+      {
+        "name":"",
+        "description":"",
+        "image":"kotlin.jpg"
       }
     ]
   },
