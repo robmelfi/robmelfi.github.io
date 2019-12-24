@@ -88,6 +88,26 @@
       {
         "name":"",
         "description":"",
+        "image":"apple.png"
+      },
+      {
+        "name":"",
+        "description":"",
+        "image":"swift.png"
+      },
+      {
+        "name":"",
+        "description":"",
+        "image":"android.png"
+      },
+      {
+        "name":"",
+        "description":"",
+        "image":"kotlin.jpg"
+      },
+      {
+        "name":"",
+        "description":"",
         "image":"spring-boot.jpg"
       },
       {
@@ -124,26 +144,6 @@
         "name": "",
         "description": "",
         "image": "heroku.jpg"
-      },
-      {
-        "name":"",
-        "description":"",
-        "image":"apple.png"
-      },
-      {
-        "name":"",
-        "description":"",
-        "image":"swift.png"
-      },
-      {
-        "name":"",
-        "description":"",
-        "image":"android.png"
-      },
-      {
-        "name":"",
-        "description":"",
-        "image":"kotlin.jpg"
       }
     ]
   },
