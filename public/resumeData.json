@@ -5,14 +5,14 @@
     "description":"I'm always interested in playing around with new technologies but these are the ones that have really won me over",
     "school":"University of Naples Parthenope",
     "degree":"Master's degree in Computer Science",
-    "image":"profile_pic.jpg",
+    "image":"profile_pic.png",
     "bio":"I am a Computer Science High School Teacher and Full Stack Developer as a hobby. I teach Exploring Computer Science, Information Technology, and Basic Programming.",
     "contactmessage":"Have a project for me? I'd love to hear from you, give me a shout by email if you'd like to get in contact with me.",
     "email": "melfiroberto@gmail.com",
     "phone": "",
     "address":{
       "street":"",
-      "city":"Succivo (CE)",
+      "city":"",
       "state":"Italia",
       "zip": ""
     },
@@ -23,6 +23,11 @@
         "name":"facebook",
         "url":"https://www.facebook.com/roberto.melfi.1",
         "className":"fa fa-facebook"
+      },
+      {
+        "name":"youtube",
+        "url":" https://www.youtube.com/channel/UCBCHqplxmhJCQaI1n9tQnkA",
+        "className":"fa fa-youtube"
       },
       {
         "name":"linkedin",
@@ -160,18 +165,6 @@
         "category":"Controlling Raspberry GPIO for home automation with a web/mobile app",
         "image":"rcraspi.jpg",
         "url":"http://rcraspi.robertomelfi.it"
-      },
-      {
-        "title":"Sigismondo Interni",
-        "category":"Website I built for a furnishing store",
-        "image":"sigismondo.jpg",
-        "url":"http://www.sigismondointerni.com"
-      },
-      {
-        "title":"Sondaggio ISISS Conti",
-        "category":"Web app I built for a survey",
-        "image":"sondaggio-conti.jpg",
-        "url":"https://isissconti-sondaggio.herokuapp.com/#/"
       }
     ]
   },
